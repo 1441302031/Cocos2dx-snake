@@ -1,0 +1,2342 @@
+Quick-Cocos2dx-Community C++ support ready.
+
+------------------------------------------------
+
+LOAD LUA FILE: E:/Workplace/LUA/project/snake/src/main.lua
+
+------------------------------------------------
+
+[LUA-print] ===========================================================
+
+[LUA-print]               LOAD QUICK FRAMEWORK
+
+[LUA-print] ===========================================================
+
+[LUA-print] [INFO] 
+
+[LUA-print] [INFO] # DEBUG                        = 1
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # device.platform              = windows
+
+[LUA-print] [INFO] # device.model                 = unknown
+
+[LUA-print] [INFO] # device.language              = cn
+
+[LUA-print] [INFO] # device.writablePath          = E:\Workplace\LUA\project\snake\
+
+[LUA-print] [INFO] # device.directorySeparator    = \
+
+[LUA-print] [INFO] # device.pathSeparator         = ;
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 1024.00
+
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 682.67
+
+[LUA-print] [INFO] # display.widthInPixels        = 960.00
+
+[LUA-print] [INFO] # display.heightInPixels       = 640.00
+
+[LUA-print] [INFO] # display.contentScaleFactor   = 0.94
+
+[LUA-print] [INFO] # display.width                = 1024.00
+
+[LUA-print] [INFO] # display.height               = 682.67
+
+[LUA-print] [INFO] # display.cx                   = 512.00
+
+[LUA-print] [INFO] # display.cy                   = 341.33
+
+[LUA-print] [INFO] # display.left                 = 0.00
+
+[LUA-print] [INFO] # display.right                = 1024.00
+
+[LUA-print] [INFO] # display.top                  = 682.67
+
+[LUA-print] [INFO] # display.bottom               = 0.00
+
+[LUA-print] [INFO] # display.c_left               = -512.00
+
+[LUA-print] [INFO] # display.c_right              = 512.00
+
+[LUA-print] [INFO] # display.c_top                = 341.33
+
+[LUA-print] [INFO] # display.c_bottom             = -341.33
+
+[LUA-print] [INFO] #
+
+[LUA-print] Hello my friends, game has started!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter down!
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter right!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter down!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] enter left!
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter down!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter down!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter right!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] enter down!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] enter right!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter up!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] enter left!
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] enter down!
+
+[LUA-print] unkown direction!	down
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter left!
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter down!
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] 苹果移除！
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] unkown direction!	left
+
+[LUA-print] enter up!
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] unkown direction!	up
+
+[LUA-print] enter right!
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
+[LUA-print] unkown direction!	right
+
